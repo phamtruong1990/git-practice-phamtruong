@@ -1,1 +1,2 @@
-console.log('Hello Git');
+Console.log('Hello Git');
+Console.log('Editted');
